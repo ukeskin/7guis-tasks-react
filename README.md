@@ -2,7 +2,7 @@
 
 - [x] Flight booker
 - [x] Counter
-- [ ] Temperature Converter
+- [x] Temperature Converter
 - [ ] Timer
 - [ ] CRUD
 - [ ] Circle Drawer
