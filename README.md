@@ -1,7 +1,7 @@
 # 7guis-tasks-react
 
 - [x] Flight booker
-- [ ] Counter
+- [x] Counter
 - [ ] Temperature Converter
 - [ ] Timer
 - [ ] CRUD
