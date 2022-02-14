@@ -1,0 +1,14 @@
+.App {
+  font-family: sans-serif;
+}
+
+.form{
+  max-width: 250px;
+  display:flex;
+  flex-direction: column;
+  gap:10px;
+}
+
+.form input, select{
+  padding: 5px;
+}
